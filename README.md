@@ -1,1 +1,1 @@
-https://github.com/Alaminprx/kgfwin-hgzy-clone/tree/main
+https://github.com/kgfwin-hgzy-clone/tree/main
